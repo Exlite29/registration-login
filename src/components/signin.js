@@ -1,6 +1,6 @@
 import React from "react";
 import "firebase/auth";
-import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const SignIn = ({
