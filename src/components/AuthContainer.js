@@ -8,7 +8,7 @@ import {
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
 } from "firebase/auth";
-import { auth } from "./firebase.util";
+//import { auth } from "./firebase.util";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
