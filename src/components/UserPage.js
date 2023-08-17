@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { signOut } from "firebase/auth";
 import { auth } from "./firebase.util";
 import Marc from "../Picture/Marc.jpg";
-import { ToastContainer, toast } from "react-toastify";
+//import { ToastContainer, toast } from "react-toastify";
 
 const UserPage = () => {
   const [displayName, setDisplayName] = useState("");
